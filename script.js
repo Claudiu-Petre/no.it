@@ -35,7 +35,7 @@ countriesContainer.style.opacity = 1;
 });
 };
 
-getCountryData('switzerland');
-getCountryData('usa');
+getCountryData('romania');
+getCountryData('portugal');
 getCountryData('france');
-getCountryData('germany');
+getCountryData('spain');

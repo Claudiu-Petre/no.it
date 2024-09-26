@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  background-image: linear-gradient(to right, rgb(30, 30, 227), grey);
+  background-image: linear-gradient(to right, rgb(51, 51, 232), grey);
   font-family: system-ui;
   color: rgb(119, 32, 32);
   /* background-color: #676e7279; */
